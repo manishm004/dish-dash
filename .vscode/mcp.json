@@ -1,7 +1,7 @@
 {
   "servers": {
-    "context7654": {
-      "url": "https://mcp.context7654.com/mcp"
+    "contextdummy": {
+      "url": "https://mcp.contextdummy.com/mcp"
     }
   }
 }
