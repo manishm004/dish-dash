@@ -18,7 +18,7 @@ class ExampleInstrumentedTest {
     @Test
     fun useAppContext() {
         // Context of the app under test.
-        val appContext3 = InstrumentationRegistry.getInstrumentation().targetContext
+        val appContextdummy = InstrumentationRegistry.getInstrumentation().targetContext
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
         assertEquals("com.example.dish_dash_git", appContext.packageName)
     }
