@@ -1,0 +1,3 @@
+#!/bin/sh
+
+python tools/merge_mcp.py
